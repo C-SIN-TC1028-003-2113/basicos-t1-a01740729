@@ -1,8 +1,8 @@
 def main():
     #escribe tu código abajo de esta línea
     pass
-    b = int(input('Dame la base: '))
-    h = int(input('Dame la altura: '))
+    b = float(input('Dame la base: '))
+    h = float(input('Dame la altura: '))
 
     area = (b * h) / 2
 

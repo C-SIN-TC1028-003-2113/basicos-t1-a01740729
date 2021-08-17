@@ -1,10 +1,10 @@
 def main():
     #escribe tu código abajo de esta línea
     pass
-    m1 = int(input('Calificación de la materia: '))
-    m2 = int(input('Calificación de la materia: '))
-    m3 = int(input('Calificación de la materia: '))
-    m4 = int(input('Calificación de la materia: '))
+    m1 = float(input('Calificación de la materia: '))
+    m2 = float(input('Calificación de la materia: '))
+    m3 = float(input('Calificación de la materia: '))
+    m4 = float(input('Calificación de la materia: '))
     
     promedio = (m1 + m2 + m3 + m4) / 4
 
